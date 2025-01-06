@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Тест проверяет возможность поиска товара на главной странице Allegro.","4907","Тест: Поиск товара на сайте Allegro","","Mon Jan 06 13:19:15 CET 2025","passed","Mon Jan 06 13:19:20 CET 2025","","test_allegro","",""
